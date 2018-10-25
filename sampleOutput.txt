@@ -1,0 +1,30 @@
+/usr/lib/jvm/java-10-oracle/bin/java -javaagent:/opt/idea-IU-173.4127.27/lib/idea_rt.jar=42947:/opt/idea-IU-173.4127.27/bin -Dfile.encoding=UTF-8 -classpath /home/noynaert/0Grading/stewartchristopher_late_1487_1403354_hmwk03/Rectangle/target/classes:/home/noynaert/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.0.0/junit-jupiter-api-5.0.0.jar:/home/noynaert/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/home/noynaert/.m2/repository/org/opentest4j/opentest4j/1.0.0/opentest4j-1.0.0.jar:/home/noynaert/.m2/repository/org/junit/platform/junit-platform-commons/1.0.0/junit-platform-commons-1.0.0.jar com.noynaert.csc254.App
+2 parts found: 3.000000 4.000000
+2 parts found: 1.000000 1.000000
+1 parts found: 2.000000
+2 parts found: 5.600000 8.900000
+1 parts found: 3.141580
+2 parts found: 3.131590 12.340000
+2 parts found: -1.000000 -2.000000
+2 parts found: 0.000000 0.000000
+3 parts found: 5.600000 8.900000 3.141580
+Invalid line. Parts = 3
+2 parts found: 0.003200 0.074200
+2 parts found: 0.323200 0.100000
+2 parts found: -1.000000 0.200000
+
+---------------------
+[  0]   4.0000 x 3.0000
+[  1]   1.0000 x 1.0000
+[  2]   2.0000 x 2.0000
+[  3]   8.9000 x 5.6000
+[  4]   3.1416 x 3.1416
+[  5]   12.3400 x 3.1316
+[  6]   1.0000 x 1.0000
+[  7]   1.0000 x 1.0000
+[  8]   0.0742 x 0.0032
+[  9]   0.3232 x 0.1000
+[ 10]   1.0000 x 0.2000
+Programmed by YOUR NAME
+
+Process finished with exit code 0
